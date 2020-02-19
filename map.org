@@ -1,6 +1,6 @@
 There's too many alias in this world, so I try to compile a .bash file
 
-To talk to people
+To talk to people who talk to me
 
 * Basic
 
