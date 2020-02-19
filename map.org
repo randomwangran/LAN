@@ -5,14 +5,19 @@ To talk to people
 * Basic
 
 ** zao an
-| alias      | written     | sound                                  |
-|------------+-------------+----------------------------------------|
-| spanish    | Buenos días | https://forvo.com/word/buenos_dias/#es |
-| perian     | صبح بخیر    |                                        |
-| Bangladesh |             |                                        |
-| fr.        |             |                                        |
-| Palestine  |             |                                        |
-| Ita.       |             |                                        |
+| alias      | written     | sound                                  |                                              |       |
+|------------+-------------+----------------------------------------+----------------------------------------------+-------|
+| spanish    | Buenos días | https://forvo.com/word/buenos_dias/#es |                                              |       |
+| perian     | صبح بخیر    |                                        |                                              |       |
+| Bangladesh |             |                                        |                                              |       |
+| fr.        |             |                                        |                                              |       |
+| Palestine  |             |                                        |                                              |       |
+| Ita.       |             |                                        |                                              |       |
+| Dogri      |             |                                        | https://en.wikipedia.org/wiki/Dogri_language | North |
+
+
+
+
 
 ** hi
 | alias      | written     | sound                                  |
