@@ -9,7 +9,7 @@ To talk to people
 |------------+-------------+-----------------+----------------------------------------------+-------|
 | spanish    | Buenos días | bo luo di ya si |                                              |       |
 | perian     | صبح بخیر    |                 |                                              |       |
-| Bangladesh |             |                 |                                              |       |
+| Bangladesh | সুপ্রভাত      | shu bu pa       |                                              |       |
 | fr.        |             |                 |                                              |       |
 | Palestine  |             |                 |                                              |       |
 | Ita.       |             |                 |                                              |       |
