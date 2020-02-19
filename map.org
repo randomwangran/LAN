@@ -4,10 +4,21 @@ To talk to people
 
 * Basic
 
-| alias      | zao an      | sound                                  |
+** zao an
+| alias      | written     | sound                                  |
 |------------+-------------+----------------------------------------|
 | spanish    | Buenos días | https://forvo.com/word/buenos_dias/#es |
 | perian     | صبح بخیر    |                                        |
+| Bangladesh |             |                                        |
+| fr.        |             |                                        |
+| Palestine  |             |                                        |
+| Ita.       |             |                                        |
+
+** hi
+| alias      | written     | sound                                  |
+|------------+-------------+----------------------------------------|
+| spanish    | Hola        | hao la                                 |
+| perian     |             |                                        |
 | Bangladesh |             |                                        |
 | fr.        |             |                                        |
 | Palestine  |             |                                        |
