@@ -1,1 +1,14 @@
-good morning - Buenos días
+There's too many alias in this world, so I try to compile a .bash file
+
+To talk to people
+
+* Basic
+
+| alias      | zao an      | sound                                  |
+|------------+-------------+----------------------------------------|
+| spanish    | Buenos días | https://forvo.com/word/buenos_dias/#es |
+| perian     | صبح بخیر    |                                        |
+| Bangladesh |             |                                        |
+| fr.        |             |                                        |
+| Palestine  |             |                                        |
+| Ita.       |             |                                        |
