@@ -15,6 +15,7 @@ To talk to people
 | Ita.       |             |                 |                                              |       |
 | Dogri      |             |                 | https://en.wikipedia.org/wiki/Dogri_language | North |
 | Albania    | Miremengjes | mi me man jazz  | https://en.wikipedia.org/wiki/Albania        |       |
+| Hindi      | शुभ प्रभात    | shu pu lu part  |                                              |       |
 
 
 
