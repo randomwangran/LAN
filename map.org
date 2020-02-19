@@ -5,16 +5,16 @@ To talk to people
 * Basic
 
 ** zao an
-| alias      | written     | sound                                  |                                              |       |
-|------------+-------------+----------------------------------------+----------------------------------------------+-------|
-| spanish    | Buenos días | https://forvo.com/word/buenos_dias/#es |                                              |       |
-| perian     | صبح بخیر    |                                        |                                              |       |
-| Bangladesh |             |                                        |                                              |       |
-| fr.        |             |                                        |                                              |       |
-| Palestine  |             |                                        |                                              |       |
-| Ita.       |             |                                        |                                              |       |
-| Dogri      |             |                                        | https://en.wikipedia.org/wiki/Dogri_language | North |
-| Albania    | Miremengjes | mi me man jazz                         | https://en.wikipedia.org/wiki/Albania        |       |
+| alias      | written     | sound           | link                                         | pos   |
+|------------+-------------+-----------------+----------------------------------------------+-------|
+| spanish    | Buenos días | bo luo di ya si |                                              |       |
+| perian     | صبح بخیر    |                 |                                              |       |
+| Bangladesh |             |                 |                                              |       |
+| fr.        |             |                 |                                              |       |
+| Palestine  |             |                 |                                              |       |
+| Ita.       |             |                 |                                              |       |
+| Dogri      |             |                 | https://en.wikipedia.org/wiki/Dogri_language | North |
+| Albania    | Miremengjes | mi me man jazz  | https://en.wikipedia.org/wiki/Albania        |       |
 
 
 
