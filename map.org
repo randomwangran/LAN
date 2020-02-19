@@ -8,7 +8,7 @@ To talk to people who talk to me
 | alias      | written     | sound           | link                                         | pos   | count.    |
 |------------+-------------+-----------------+----------------------------------------------+-------+-----------|
 | spanish    | Buenos días | bo luo di ya si |                                              |       |           |
-| perian     | صبح بخیر    |                 |                                              |       |           |
+| perian     | صبح بخیر    | so be hei zhi   |                                              |       |           |
 | Hindi      | शुभ प्रभात    | shu pu lu part  |                                              |       |           |
 | Bangladesh | সুপ্রভাত      | shu bu pa       |                                              |       |           |
 | fr.        | Bonjour     | ben zhu         |                                              |       |           |
