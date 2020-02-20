@@ -19,12 +19,15 @@ To talk to people who talk to me
 | Russian     | доброе утро | do bo li wu da  |                                              |       |           |
 | Philippines | ?? 19 sub?  |                 | https://en.wikipedia.org/wiki/Philippines    |       |           |
 
-** good afternoon
-| alias | written    | sound              | link | pos | count. |
-|-------+------------+--------------------+------+-----+--------|
-| alb.  | Mirembrema | mi man bra maaa    |      |     |        |
-| per.  | عصر به خیر | a si beerr hei zhi |      |     |        |
-| per2  |            | a si ri            |      |     |        |
+** wan an
+| alias | written    | sound              | link | pos | count. | note                                    | note2 |
+|-------+------------+--------------------+------+-----+--------+-----------------------------------------+-------|
+| alb.  | Mirembrema | mi man bra maaa    |      |     |        |                                         |       |
+| per.  | عصر به خیر | a si beerr hei zhi |      |     |        |                                         |       |
+| per2  |            | a si ri            |      |     |        | conversion with MaoYan (beed?) and Sina |       |
+
+- so hard in persian to say it!
+
 
 ** hi
 | alias      | written | sound   |
