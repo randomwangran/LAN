@@ -5,29 +5,31 @@ To talk to people who talk to me
 * Basic
 
 ** zao an
-| alias      | written     | sound           | link                                         | pos   | count.    |
-|------------+-------------+-----------------+----------------------------------------------+-------+-----------|
-| spanish    | Buenos días | bo luo di ya si |                                              |       |           |
-| perian     | صبح بخیر    | so be hei zhi   |                                              |       |           |
-| Hindi      | शुभ प्रभात    | shu pu lu part  |                                              |       |           |
-| Bangladesh | সুপ্রভাত      | shu bu pa       |                                              |       |           |
-| fr.        | Bonjour     | ben zhu         |                                              |       |           |
-| arabic     | صباح الخير  | sa ba hou ha li |                                              |       | Palestine |
-| Ita.       |             |                 |                                              |       |           |
-| Dogri      |             |                 | https://en.wikipedia.org/wiki/Dogri_language | North |           |
-| Albania    | Miremengjes | mi me man jazz  | https://en.wikipedia.org/wiki/Albania        |       |           |
-| Russian    | доброе утро | do bo li wu da  |                                              |       |           |
-
-
-
-
+| alias       | written     | sound           | link                                         | pos   | count.    |
+|-------------+-------------+-----------------+----------------------------------------------+-------+-----------|
+| spanish     | Buenos días | bo luo di ya si |                                              |       |           |
+| perian      | صبح بخیر    | so be hei zhi   |                                              |       |           |
+| Hindi       | शुभ प्रभात    | shu pu lu part  |                                              |       |           |
+| Bangladesh  | সুপ্রভাত      | shu bu pa       |                                              |       |           |
+| fr.         | Bonjour     | ben zhu         |                                              |       |           |
+| arabic      | صباح الخير  | sa ba hou ha li |                                              |       | Palestine |
+| Ita.        |             |                 |                                              |       |           |
+| Dogri       |             |                 | https://en.wikipedia.org/wiki/Dogri_language | North |           |
+| Albania     | Miremengjes | mi me man jazz  | https://en.wikipedia.org/wiki/Albania        |       |           |
+| Russian     | доброе утро | do bo li wu da  |                                              |       |           |
+| Philippines | ?? 19 sub?  |                 | https://en.wikipedia.org/wiki/Philippines    |       |           |
 
 ** hi
-| alias      | written     | sound                                  |
-|------------+-------------+----------------------------------------|
-| spanish    | Hola        | hao la                                 |
-| perian     |             |                                        |
-| Bangladesh |             |                                        |
-| fr.        |             |                                        |
-| Palestine  |             |                                        |
-| Ita.       |             |                                        |
+| alias      | written | sound   |
+|------------+---------+---------|
+| spanish    | Hola    | hao la  |
+| perian     |         | Sa long |
+| Bangladesh |         |         |
+| fr.        |         |         |
+| Palestine  |         |         |
+| Ita.       |         |         |
+
+** nice day
+| alias   | written   | sound         | link | pos | count. |
+|---------+-----------+---------------+------+-----+--------|
+| spanish | lindo día | lin duo di ya |      |     |        |
