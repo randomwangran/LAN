@@ -19,6 +19,13 @@ To talk to people who talk to me
 | Russian     | доброе утро | do bo li wu da  |                                              |       |           |
 | Philippines | ?? 19 sub?  |                 | https://en.wikipedia.org/wiki/Philippines    |       |           |
 
+** good afternoon 
+| alias   | written   | sound         | link | pos | count. |
+|---------+-----------+---------------+------+-----+--------|
+| spanish | 
+| per.    |  عصر به خیر | a si beerr hei zhi| 
+
+
 ** hi
 | alias      | written | sound   |
 |------------+---------+---------|
@@ -33,3 +40,13 @@ To talk to people who talk to me
 | alias   | written   | sound         | link | pos | count. |
 |---------+-----------+---------------+------+-----+--------|
 | spanish | lindo día | lin duo di ya |      |     |        |
+
+
+
+
+
+
+Nice perisan web
+
+https://www.persianpod101.com/Persian-vocabulary-lists/common-ways-to-say-hello
+
