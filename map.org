@@ -2,7 +2,6 @@ There's too many alias in this world, so I try to compile a .bash file
 
 To talk to people who talk to me
 
-* Basic
 
 ** zao an
 | alias       | written     | sound           | link                                         | pos   | count.    |
@@ -58,9 +57,3 @@ To talk to people who talk to me
 | alias   | written     | sound                 | link | pos | count. |
 |---------+-------------+-----------------------+------+-----+--------|
 | albania | mirupafshim | min ru paaaa fuuu shi |      |     |        |
-
-
-
-Nice perisan web
-
-https://www.persianpod101.com/Persian-vocabulary-lists/common-ways-to-say-hello
