@@ -17,6 +17,7 @@ To talk to people who talk to me
 | Albania     | Miremengjes | mi me man jazz  | https://en.wikipedia.org/wiki/Albania        |       |           |
 | Russian     | доброе утро | do bo li wu da  |                                              |       |           |
 | Philippines | ?? 19 sub?  |                 | https://en.wikipedia.org/wiki/Philippines    |       |           |
+| Urdu        | صبح بخیر    | su ba be hei    | https://en.wikipedia.org/wiki/Pakistan       | kebi  |           |
 
 ** wan an
 | alias  | written    | sound              | link | pos | count. | note                                    | note2 |
