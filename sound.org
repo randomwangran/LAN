@@ -27,3 +27,8 @@ I already lost int the layer, but the creator can.
 
 Even 14:30, she can still add thing using her theory into this magic
 thing.
+
+* theory
+拨动长度 L 的琴弦，我们听到的是基因和泛音的混合， 它们之间是 1: 2 的关系
+
+any relation to this: https://github.com/randomwangran/computing/blob/master/classic/continuum/heat.org ?
