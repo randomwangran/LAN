@@ -11,6 +11,7 @@ To talk to people who talk to me
 | Hindi       | शुभ प्रभात    | shu pu lu part  |                                              |       |           |
 | Bangladesh  | সুপ্রভাত      | shu bu pa       |                                              |       |           |
 | fr.         | Bonjour     | ben zhu         |                                              |       |           |
+| fr. (Ca)    | Bon matin   | Bon montin      |                                              |       |           |
 | arabic      | صباح الخير  | sa ba hou ha li |                                              |       | Palestine |
 | Ita.        |             |                 |                                              |       |           |
 | Dogri       |             |                 | https://en.wikipedia.org/wiki/Dogri_language | North |           |
