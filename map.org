@@ -24,15 +24,14 @@ To talk to people who talk to me
 ** wan an
 | alias   | written    | sound              | link                                        | pos | count. | note                                    | note2 |
 |---------+------------+--------------------+---------------------------------------------+-----+--------+-----------------------------------------+-------|
-| albania | Mirembrema | mi man bra maaa    |                                             |     |        |                                         |       |
-| per.    | عصر به خیر | a si beerr hei zhi |                                             |     |        |                                         |       |
+| albania | Mirdita    | Mee ruo diiita     |                                             |     |        |                                         |       |
+| per.    | عصر به خیر | a si beerr hei zhi |                                             |     |        | Sine ( muscle man)                      |       |
 | per2    |            | a siheer  beizhi   |                                             |     |        | conversion with MaoYan (beed?) and Sina |       |
 | arabic  | مساء الخير | ma sao heee yi     | https://www.youtube.com/watch?v=AFFNGj7aIuI |     |        | conv. with A Men                        |       |
 | Hindi   | शुभ प्रभात   | shu pu sabu diaya  |                                             |     |        |                                         |       |
 
 - DNA tall?
 - so hard in persian to say it!
-
 
 ** hi
 | alias      | written | sound   |
