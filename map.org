@@ -70,3 +70,8 @@ To talk to people who talk to me
 |---------+-------------+-----------------------+------+-----+--------|
 | albania | mirupafshim | min ru paaaa fuuu shi |      |     |        |
 | arabic  | وداعا       | wan dan?
+
+** your name?
+| alias    | written               | sound | link | pos | count. |
+|----------+-----------------------+-------+------+-----+--------|
+| fr.      | Comment tu t'appelles |       |      |     |        |
