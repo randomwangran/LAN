@@ -71,7 +71,14 @@ To talk to people who talk to me
 | albania | mirupafshim | min ru paaaa fuuu shi |      |     |        |
 | arabic  | وداعا       | wan dan?
 
+
+
 ** TODO your name?
 | alias | written                 | sound | link | pos | count. |
 |-------+-------------------------+-------+------+-----+--------|
 | fr.   | Comment  t'appelles  tu |       |      |     |        |
+
+** my name is
+| alias | written      | sound           | link | pos | count. |
+|-------+--------------+-----------------+------+-----+--------|
+| fr.   | Je m'appelle | Zhii ma pei ou~ |      |     |        |
